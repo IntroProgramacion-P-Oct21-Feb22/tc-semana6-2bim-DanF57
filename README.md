@@ -1,5 +1,6 @@
 # Trabajo en Clases - Semana6 - Segundo Bimestre
 
+###Integrantes: Felipe Jimenez, Daniel Flores
 
 ### Actividades
 
